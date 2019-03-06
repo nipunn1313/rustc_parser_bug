@@ -1,0 +1,4 @@
+[package]
+authors = ["Nipunn <nipunn@dropbox.com>"]
+name = "weird_rustc_bug"
+version = "0.1.0"
